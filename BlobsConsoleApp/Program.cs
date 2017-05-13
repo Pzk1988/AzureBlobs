@@ -10,6 +10,7 @@ namespace BlobsConsoleApp
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
